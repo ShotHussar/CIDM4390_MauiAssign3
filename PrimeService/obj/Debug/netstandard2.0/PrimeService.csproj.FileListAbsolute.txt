@@ -1,0 +1,10 @@
+C:\Users\Hunter\school\CIDM4390\Assignment3\samples\core\getting-started\unit-testing-using-dotnet-test\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+C:\Users\Hunter\school\CIDM4390\Assignment3\samples\core\getting-started\unit-testing-using-dotnet-test\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+C:\Users\Hunter\school\CIDM4390\Assignment3\samples\core\getting-started\unit-testing-using-dotnet-test\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+C:\Users\Hunter\school\CIDM4390\Assignment3\samples\core\getting-started\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.AssemblyReference.cache
+C:\Users\Hunter\school\CIDM4390\Assignment3\samples\core\getting-started\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hunter\school\CIDM4390\Assignment3\samples\core\getting-started\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\Hunter\school\CIDM4390\Assignment3\samples\core\getting-started\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+C:\Users\Hunter\school\CIDM4390\Assignment3\samples\core\getting-started\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\school\CIDM4390\Assignment3\samples\core\getting-started\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+C:\Users\Hunter\school\CIDM4390\Assignment3\samples\core\getting-started\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
